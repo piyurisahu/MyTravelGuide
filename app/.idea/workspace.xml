@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a87e415-4d3d-4734-a92f-f94aea325127" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/androidTest/java/com/example/sahuweek15/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/java/com/example/sahuweek15/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/java/com/example/sahuweek15/WimbledonAdapterClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/java/com/example/sahuweek15/WimbledonDataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/layout/winbledon_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/app/src/test/java/com/example/sahuweek15/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuWeek15/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Activity/CityInformationActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Adapter/CustomAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/BroadcastReceiver/MyBroadCastReciever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Communicator/FragmentCommunicator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Fragment/DescriptionFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Fragment/ImageFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Fragment/ShareCityDetailsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Model/City.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v24/travel_description.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v24/traveller.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v24/traveller2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_arrow_back_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_description_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_image_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_share_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_description_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_image_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_share_place_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/app/src/main/java/com/example/listviewstateandcapital/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/SahuW13_ListViewStateAndCapital/app/src/main/java/com/example/listviewstateandcapital/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/app/src/main/java/com/example/sahuweek13listview/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AdapterProjectWeek13/sahuW13_ListView/app/src/main/java/com/example/sahuweek13listview/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BroadCastReceiver/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BroadCastReceiver/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BroadCastReceiver/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BroadCastReceiver/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kotlin-BottomNavigationView" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kotlin-BottomNavigationView" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minimal-Todo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minimal-Todo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyFinalProject" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyFinalProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assets/cities_json.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/cities_json.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/CitiInformation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/City.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/CustomAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Activity/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_citi_information.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_citi_information.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/PassingDataToAnotherFragment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/PassingDataToAnotherFragment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PassingDataToAnotherFragment/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuW14_ListViewJson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuW14_ListViewJson/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuW14_ListViewJson/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuWeek07IntentImplicit/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuWeek07IntentImplicit/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuWeek07IntentImplicit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuWeek07IntentImplicit/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SahuWeek6ExplicitIntent/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SahuWeek6ExplicitIntent/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.56.102:5555" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bJir2eL7oUhOB4EHitaI0FDZgC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/mytravelguide" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.mytravelguide.Model" />
+      <recent name="com.example.mytravelguide.Adapter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.mytravelguide.BroadcastReceiver" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/mytravelguide" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a87e415-4d3d-4734-a92f-f94aea325127" name="Default Changelist" comment="" />
+      <created>1588356792278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588356792278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/mytravelguide/Fragment/ImageFragment.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

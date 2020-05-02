@@ -1,0 +1,81 @@
+[
+ {
+  "city":"Kansas City",
+  "hotel":"$30",
+  "image":"kansas_city",
+  "state": "Missouri",
+  "description": "Kansas City sits on Missouri's western edge, straddling the border with Kansas. It's known for its barbecue, jazz heritage and fountains. Downtown, the American Jazz Museum shares a building with the Negro Leagues Baseball Museum in the historic 18th & Vine Jazz District. The Nelson-Atkins Museum of Art, with giant shuttlecocks out front, houses nearly 40,000 works of art, from ancient to contemporary collections.",
+  "weather": "58°F (14°C), Wind E at 4 mph (6 km/h), 85% Humidity",
+   "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+
+ },
+{
+"city":"Philadelphia",
+"hotel":"$50",
+"image":"philly",
+ "state": "pennsylvania",
+ "description": "Philadelphia, Pennsylvania’s largest city, is notable for its rich history, on display at the Liberty Bell, Independence Hall (where the Declaration of Independence and Constitution were signed) and other American Revolutionary sites. Also iconic are the steps of the Philadelphia Museum of Art, immortalized by Sylvester Stallone’s triumphant run in the film \"Rocky.\"",
+ "weather": "45°F (7°C), Wind NE at 10 mph (16 km/h), 93% Humidity",
+  "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+
+},
+{
+ "city":"Boston",
+ "hotel":"$60",
+ "image":"boston",
+ "state": "Massachusetts",
+ "description": "Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States, and the 21st most populous city in the United States. The city proper covers 49 square miles with an estimated population of 694,583 in 2018, also making it the most populous city in New England.",
+ "weather": "42°F (6°C), Wind NE at 11 mph (18 km/h), 81% Humidity",
+  "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+
+},
+{
+ "city":"Chicago",
+ "hotel":"$50",
+ "image":"chicago",
+ "state": "Illinois",
+ "description": "Chicago, on Lake Michigan in Illinois, is among the largest cities in the U.S. Famed for its bold architecture, it has a skyline punctuated by skyscrapers such as the iconic John Hancock Center, 1,451-ft. Willis Tower (formerly the Sears Tower) and the neo-Gothic Tribune Tower. The city is also renowned for its museums, including the Art Institute of Chicago with its noted Impressionist and Post-Impressionist works.",
+ "weather": "42°F (6°C), Wind N at 9 mph (14 km/h), 94% Humidity",
+  "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+
+},
+  {
+    "city":"Warrensburg",
+    "hotel":"$30",
+    "image":"warrensburg",
+    "state": "Missouri",
+    "description": "Warrensburg is a city in Johnson County, Missouri, United States. The population was 18,838 at the 2010 census. It is the county seat of Johnson County. The Warrensburg Micropolitan Statistical Area consists of Johnson County. It is home to the University of Central Missouri. Warrensburg has 8,438 farms.",
+    "weather": "58°F (14°C), Wind S at 5 mph (8 km/h), 94% Humidity",
+    "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+
+  },
+  {
+    "city":"New York",
+    "hotel":"$80",
+    "image":"new_york",
+    "state": "New York",
+    "description": "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square",
+    "weather": "46°F (8°C), Wind N at 12 mph (19 km/h), 94% Humidity",
+    "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+  },
+  {
+    "city":"Los Angeles",
+    "hotel":"$50",
+    "image":"los_angeles",
+    "state": "California",
+    "description": "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours. On Hollywood Boulevard, TCL Chinese Theatre displays celebrities’ hand- and footprints, the Walk of Fame honors thousands of luminaries and vendors sell maps to stars’ homes.",
+    "weather": "67°F (19°C), Wind W at 0 mph (0 km/h), 62% Humidity",
+    "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+
+  },
+  {
+    "city":"Orlando",
+    "hotel":"$60",
+    "image":"orlando",
+    "state": "Florida",
+    "description": "Orlando, a city in central Florida, is home to more than a dozen theme parks. Chief among its claims to fame is Walt Disney World, comprised of parks like the Magic Kingdom and Epcot, as well as water parks. Another major destination, Universal Orlando, offers Universal Studios and Islands of Adventure, with the Wizarding World of Harry Potter straddling both.",
+    "weather": "73°F (23°C), Wind SW at 14 mph (23 km/h), 80% Humidity",
+    "places": ["kadka", "adadaf", "adadafaf", "adafafa"]
+
+  }
+]

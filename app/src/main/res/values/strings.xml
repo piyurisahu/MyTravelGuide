@@ -1,0 +1,97 @@
+<resources>
+    <string-array name="kansasCityArray">
+        <item>National WWI Museum and Memorial</item>
+        <item>The Nelson-Atkins Museum of Art</item>
+        <item>Arabia Steamboat Museum</item>
+        <item>Union Station</item>
+        <item>Kauffman Stadium</item>
+    </string-array>
+    <string-array name="philadelphiaArray">
+        <item>Liberty Bell</item>
+        <item>Philadelphia Museum of Art</item>
+        <item>Eastern State Penitentiary</item>
+        <item>Independence National Historical Park</item>
+        <item>Reading Terminal Market</item>
+        <item>Rodin Museum</item>
+        <item>Rodin Museum</item>
+        <item>Betsy Ross House</item>
+        <item>Love Park</item>
+    </string-array>
+    <string-array name="bostonArray">
+        <item>Freedom Trail</item>
+        <item>Faneuil Hall</item>
+        <item>Fenway Park</item>
+        <item>IBoston Common and Public Garden Swan Boats</item>
+        <item> Beacon Hill</item>
+        <item> Museum of Fine Arts Boston</item>
+        <item> Museum of Science</item>
+        <item>Old North Church and the North End</item>
+        <item>Harvard Square and Harvard Art Museums</item>
+    </string-array>
+    <string-array name="chicagoArray">
+    <item>Millennium Park</item>
+    <item>Willis Tower</item>
+    <item>Cloud Gate</item>
+    <item>The Art Institute of Chicago</item>
+    <item>Skydeck Chicago</item>
+    <item>Lincoln Park Zoo</item>
+    <item>875 North Michigan Avenue</item>
+    <item>Navy Pier</item>
+    </string-array>
+    <string-array name="warrensburgArray">
+        <item>Cave Hollow Park</item>
+        <item>Blind Boone Park</item>
+        <item>Montserrat Vineyards</item>
+        <item>Central Missouri Speedway</item>
+        <item>Old Drum Statue</item>
+        <item>Original Johnson County Courthouse</item>
+        <item>Nassif Aquatic Center</item>
+        <item>Powell Gardens</item>
+    </string-array>
+
+    <string-array name="newYorkArray">
+        <item>Statue of Liberty National Monument</item>
+        <item>Central Park</item>
+        <item>Times Square</item>
+        <item>The Metropolitan Museum of Art</item>
+        <item>One World Trade Center</item>
+        <item>Grand Central Terminal</item>
+        <item>5th Avenue</item>
+        <item>Battery Park</item>
+        <item>Chrysler Building</item>
+        <item>St Patrick\s Cathedral</item>
+        <item>Washington Square Park</item>
+    </string-array>
+    <string-array name="losAngelesArray">
+        <item>Disneyland Park</item>
+        <item>Griffith Observatory</item>
+        <item>Universal Studios Hollywood</item>
+        <item>Hollywood Sign</item>
+        <item>Hollywood Boulevard</item>
+        <item>Santa Monica State Beach</item>
+        <item>Walt Disney Concert Hall</item>
+        <item>The Getty Villa</item>
+        <item>The Original Farmers Market</item>
+        <item>Los Angeles Zoo</item>
+        <item>The Grove</item>
+    </string-array>
+    <string-array name="noPlaceArray">
+        <item>Sorry!!! we havent updated places for this city</item>
+    </string-array>
+
+    <string name="app_name">MyTravelGuide</string>
+    <string name="title_activity_citi_information">CityInformation</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigationBack"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:title="Back"></item>
+
+    <item
+        android:id="@+id/navigationImage"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:title="Image"></item>
+
+    <item
+        android:id="@+id/navigationDescription"
+        android:icon="@drawable/ic_description_black_24dp"
+        android:title="Descritioption"></item>
+
+    <item
+        android:id="@+id/navigationSharing"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Share"></item>
+
+</menu>
